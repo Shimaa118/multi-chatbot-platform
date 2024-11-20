@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+chromadb
+langchain
+passlib[bcrypt]
+python-jose[cryptography]
